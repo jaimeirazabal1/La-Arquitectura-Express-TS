@@ -131,8 +131,5 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request.
 
 ## Licencia
 
-(Opcional: Especifica tu licencia, ej: MIT)
+licencia  MIT
 
----
-
-¡Esperamos que esta estructura te sea de gran utilidad! 
